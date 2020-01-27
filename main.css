@@ -1,0 +1,30 @@
+.registration {
+    background-color: teal;
+    margin: auto;
+    border: solid black;
+    width: 50%;
+    height: 60vh;
+}
+.box {
+    padding: 20%;
+    background-color: turquoise;
+}
+#submit {
+    padding: 15%;
+}
+input {
+    border: 1px solid black;
+    padding: 1vh;
+    margin: 1.5vh;
+}
+.input {
+    margin: .5%;
+}
+.header {
+    border-bottom: 1px solid black;
+    min-height: 2rem;
+}
+body { margin:0; }
+.navbutton {
+    padding-top: .5%;
+}
